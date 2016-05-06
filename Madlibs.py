@@ -3,7 +3,7 @@
 
 print "The program is started"
 
-main = raw_input("What is the name of the main caracter? ")
+main = raw_input("What is the name of the main character? ")
 adj1 = raw_input("Pick one adjective: ")
 adj2 = raw_input("Pick another adjective: ")
 adj3 = raw_input("Pick the last adjective: ")
