@@ -1,4 +1,7 @@
 """
+TITLE: bankaccount.py
+UNIT: 11
+AUTHOR: Antonio Giannino
 
 In this project, we'll create a Python class that can be used to create and manipulate a personal bank account.
 
@@ -11,7 +14,6 @@ Showing the details of the account
 Note: As with professional software development, you should be saving your code very often. As you code, make sure you click the "Save" button below to save your code/changes. Otherwise, you run the risk of losing all your code!
 
 Let's begin!
-
 """
 
 class BankAccount(object):
