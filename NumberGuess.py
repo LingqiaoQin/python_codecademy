@@ -1,4 +1,8 @@
 """
+TITLE: NumberGuess.py
+UNIT: 4
+AUTHOR: Antonio Giannino
+
 Wanna play a game? In this project, we'll build a program that rolls a pair of dice and asks the user to guess a number. Based on the user's guess, the program should determine a winner. If the user's guess is greater than the total value of the dice roll, they win! Otherwise, the computer wins.
 
 The program should do the following:
