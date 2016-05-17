@@ -1,4 +1,10 @@
 
+"""
+TITLE: Battleship.py
+UNIT: 7
+AUTHOR: Antonio Giannino
+"""
+
 from random import randint
 
 board = []
