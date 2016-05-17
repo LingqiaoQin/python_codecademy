@@ -1,5 +1,11 @@
-# Mad Libs are stories with blank spaces that a reader can fill in with their own words. The result is usually a funny (or strange) story.
 
+"""
+TITLE: Madlibs.py
+UNIT: 2
+AUTHOR: Antonio Giannino
+
+Mad Libs are stories with blank spaces that a reader can fill in with their own words. The result is usually a funny (or strange) story.
+"""
 
 print "The program is started"
 
