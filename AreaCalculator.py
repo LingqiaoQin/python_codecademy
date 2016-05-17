@@ -1,8 +1,14 @@
-# The program should do the following:
+""" 
+TITLE: AreaCalculator.py
+UNIT: 3
+AUTHOR: Antonio Giannino
 
-# 1- Prompt the user to select a shape
-# 2- Depending on the shape the user selects, calculate the area of that shape
-# 3- Print the area of that shape to the user
+The program should do the following:
+
+1- Prompt the user to select a shape
+2- Depending on the shape the user selects, calculate the area of that shape
+3- Print the area of that shape to the user
+"""
 
 
 from math import pi
